@@ -1,6 +1,6 @@
 package main
 
-import "go_blockchain/BLC"
+import "Go_BlockChain/BLC"
 
 //启动
 func main()  {
